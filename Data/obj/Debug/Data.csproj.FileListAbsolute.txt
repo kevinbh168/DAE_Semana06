@@ -1,0 +1,8 @@
+C:\Users\TOSHIBA\source\repos\Semana05_6_VI\Data\bin\Debug\Data.dll
+C:\Users\TOSHIBA\source\repos\Semana05_6_VI\Data\bin\Debug\Data.pdb
+C:\Users\TOSHIBA\source\repos\Semana05_6_VI\Data\bin\Debug\Entity.dll
+C:\Users\TOSHIBA\source\repos\Semana05_6_VI\Data\bin\Debug\Entity.pdb
+C:\Users\TOSHIBA\source\repos\Semana05_6_VI\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\Semana05_6_VI\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\TOSHIBA\source\repos\Semana05_6_VI\Data\obj\Debug\Data.dll
+C:\Users\TOSHIBA\source\repos\Semana05_6_VI\Data\obj\Debug\Data.pdb
